@@ -26,7 +26,7 @@ To download
 
 [Darkyen's Time Tracker - IntelliJ IDEs](https://plugins.jetbrains.com/plugin/9286-darkyen-s-time-tracker)
 
-# **[Code tool**s](https://plugins.jetbrains.com/tag/15-code-tools)
+# [Code tools](https://plugins.jetbrains.com/tag/15-code-tools)
 
 # **Save Actions**
 
@@ -54,7 +54,7 @@ Very useful !
 
 Emoji support inside the IDE
 
-![image alt text](image_2.gif)
+![image alt text](emoji_support.gif)
 
 Both from the same author, YAES seems to be newer but both are maintained.
 
@@ -63,13 +63,13 @@ However, colorful emojis are only in mac OS :( [link](https://stackoverflow.com/
 
 This is how it looks on Linux/Windows.
 
-![image alt text](image_3.png)
+![image alt text](emoji_linux.png)
 
 # **Python Annotations**
 
 GOOD
 
-[Meanmail](https://meanmail.ru/)  14,930 Downloads**  Apr 19, 2020
+[Meanmail](https://meanmail.ru/)  14,930 Downloads  Apr 19, 2020
 
 [https://plugins.jetbrains.com/plugin/12035-python-annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
 
@@ -86,37 +86,41 @@ def str_to_int(value: str) -> Union[int, None]:
 def str_to_int(value: str) -> Optional[int]:
 ```
 
-![image alt text](image_5.png)
+![image alt text](python_annotation_suggestion.png)
 
 Can be useful, at least not harmful
 
-# **Code Cleaner with Code Climate CL**
+# Code Cleaner with Code Climate CL
 
-[Nhat Phan](https://github.com/nhat-phan)  4.6 out of 5
+[Nhat Phan](https://github.com/nhat-phan)  
 
-2 Ratings   3 023 Downloads   Dec 15, 2019
+- 2 Ratings  4.6 out of 5
+- 3,023 Downloads
+- Dec 15, 2019
 
 Implements code inspections to find different bad code smells (only works for linux/mac)
 
 ![image alt text](code_cleaner.gif)
 
 
-# **SonarLint**
+# SonarLint
 Inspection
 
-[SonarSource](https://www.sonarsource.com/)   3.3 out of 5
+[SonarSource](https://www.sonarsource.com/)   
 
-38 Ratings    2,618,338 Downloads    Jul 15, 2020
+- 38 Ratings    3.3 out of 5
+- 2,618,338 Downloads
+- Jul 15, 2020
 
-[https://plugins.jetbrains.com/plugin/7973-sonarlint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+[sonarlint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
 Code inspection to find bug/vunerabilities.
  
- ![image alt text](image_7.png)
+ ![image alt text](sonarlint.png)
 
 I’d say this is worth a download
 
-# **Pylint**
+# Pylint
 Inspection
 
 [Roberto Leinardi](https://github.com/leinardi/pylint-pycharm) 119 350 Downloads
@@ -124,24 +128,27 @@ https://plugins.jetbrains.com/plugin/11084-pylint
 
 This plugin provides both real-time and on-demand scanning of Python files with Pylint from within the PyCharm IDE.
 
-![image alt text](image_8.png)
+![image alt text](pylint.png)
 
 
-# **Archive browser**
-GOOD
+# Archive browser
 [Miscellaneous](https://plugins.jetbrains.com/tag/104-miscellaneous)
+
+GOOD
 [Ilya Usanov](https://github.com/b3er/idea-archive-browser) 4.1 out of 5
 
-18 Ratings74, 506 Downloads
+- 18 Ratings 
+- 74,506 Downloads
+- Mar 30, 2019
 
-[https://plugins.jetbrains.com/plugin/9491-archive-browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
+[archive-browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
 
 This plugin allows you to browse most archives like folders in IDEA.
 
 AWESOME
 
 
-# **CPU Usage Indicator**
+# CPU Usage Indicator
 [User Interface](https://plugins.jetbrains.com/tag/13-user-interface)
 
 GOOD
@@ -157,23 +164,22 @@ Self explanatory, pretty cool.
 
 [User Interface](https://plugins.jetbrains.com/tag/13-user-interface)
 
-# **GPU Monitor**
+# GPU Monitor
 
-[Andrew Peng](https://andrewpeng.dev/) 990 Downloads
+[Andrew Peng](https://andrewpeng.dev/)
+- 990 Downloads
 
-**Up to 2019.3.5**
+**Works up to 2019.3.5**
 
-[https://plugins.jetbrains.com/plugin/13597-gpu-monitor](https://plugins.jetbrains.com/plugin/13597-gpu-monitor)
+[gpu-monitor](https://plugins.jetbrains.com/plugin/13597-gpu-monitor)
 
-GPU stats from the IDE
+Provides GPU stats from the IDE
 
-![image alt text](image_14.png)
+![image alt text](gpu_monitor.png)
 
 [User Interface](https://plugins.jetbrains.com/tag/13-user-interface)
 
-# **Extra Icons**
-
-![image alt text](image_15.png)
+# Extra Icons
 
 [Jonathan Lermitage](https://github.com/jonathanlermitage) 4.7 out of 5
 
@@ -183,61 +189,38 @@ GPU stats from the IDE
 
 Add icons for files like Travis YML, Appveyor YML, etc.
 
-![image alt text](image_16.png)
+![image alt text](extra_icons.png)
 
 Would disable icons for common files like .gitignore and .md
 
 [Unit testing](https://plugins.jetbrains.com/tag/86-unit-testing)
 
-# **PyCrunch - Live Testing**
-
-Nah
-
-[PyCrunch](https://pycrunch.com/)  4.5 out of 5
-
-1 Rating 3 252 Downloads
-
-[https://plugins.jetbrains.com/plugin/13264-pycrunch--live-testing](https://plugins.jetbrains.com/plugin/13264-pycrunch--live-testing)
-
-PyCrunch is a continuous test runner for Python.
-
-1. Automatically runs impacted tests on code change
-
-2. Shows coverage inline with your code
-
-3. See which lines are hit by each tests
-
-4. Instant feedback about failing tests and affected lines
-
-5. Captures output for each test separately, allowing better diagnostics per test
-
-6. Easy navigation between code and tests
-
-Seems pretty exhausting, but it can be a good thing.
-
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
-# **BlackConnect**
+# BlackConnect
 
 [Kirill Borisov](https://github.com/lensvol/) 4.4 out of 5
 
 2 Ratings 997 Downloads
+Jul 25, 2020
 
 [https://plugins.jetbrains.com/plugin/14321-blackconnect](https://plugins.jetbrains.com/plugin/14321-blackconnect)
 
-Connect to **[black**d](https://black.readthedocs.io/en/stable/blackd.html) and format your Python code without creating a new **black** process!
+Connect to [blackd](https://black.readthedocs.io/en/stable/blackd.html) and format your Python code without creating a new **black** process!
 
-![image alt text](image_17.png)
+![image alt text](blackconnect.png)
 
 Pretty good I’d say. Can work with/in addition to Save Actions.
 
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
-# **Data Version Control ​(DVC)​ Support**
+# Data Version Control (DVC) Support
 
-[David Příhoda](http://dvc.org/)  4.5 out of 5
+[David Příhoda](http://dvc.org/) 
 
-1 Rating 1 506 Downloads
+1 Rating  4.5 out of 5
+1,506 Downloads
+Feb 03, 2019
 
 [https://plugins.jetbrains.com/plugin/11368-data-version-control-dvc-support](https://plugins.jetbrains.com/plugin/11368-data-version-control-dvc-support)
 
@@ -245,29 +228,31 @@ Data Version Control (DVC) file support.
 
 [Languages](https://plugins.jetbrains.com/tag/48-languages)
 
-# **BashSupport**
+# BashSupport
 
 [Joachim Ansorg](https://www.plugin-dev.com/)
 
 [https://plugins.jetbrains.com/plugin/4230-bashsupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 
-Retired. As Shell Script is bundled in the jetbrains platform.
+Retired. As Shell Script was bundled with the jetbrains platform.
 
 Bash language support for the IntelliJ platform.
 
 Supports run configurations, syntax highlighting, rename, documentation lookup, inspections, quickfixes and more.
 
-Has a pro version. Seems like a must-have
+Has a pro version. Seems like a must.
 
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
 # Gitlab Integrations
 
-# **Merge Request Integration CE - Code Review for GitLab**
+## Merge Request Integration CE - Code Review for GitLab
 
-[Nhat's Team](https://plugins.jetbrains.com/organization/ntworld) 4.4 out of 5
+[Nhat's Team](https://plugins.jetbrains.com/organization/ntworld) 
 
-23 Ratings13 572 Downloads
+23 Ratings  4.4 out of 5
+13,572 Downloads
+Apr 21, 2020
 
 [https://plugins.jetbrains.com/plugin/13607-merge-request-integration-ce--code-review-for-gitlab](https://plugins.jetbrains.com/plugin/13607-merge-request-integration-ce--code-review-for-gitlab)
 
@@ -287,59 +272,67 @@ What you can do:
 
 6. More and more features will be coming soon :)
 
-Currently the plugin supports GitLab only (gitlab cloud and self-hosted).
+Currently, the plugin supports GitLab only (gitlab cloud and self-hosted).
 
 AWESOME !
 
-![image alt text](image_18.png)
+![image alt text](gitlab_merge_request_ce.png)
 
+## Other plugins
 [https://plugins.jetbrains.com/plugin/11149-gitlab-quick-merge-request](https://plugins.jetbrains.com/plugin/11149-gitlab-quick-merge-request) - Just able to create a merge request
 
 [https://plugins.jetbrains.com/plugin/14110-gitlab-projects-2020](https://plugins.jetbrains.com/plugin/14110-gitlab-projects-2020) - Also offers gitlab integration (view merge requests, etc). Doesn’t seem to support self-hosted
 
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
-# **Jira Integration**
+# Jira Integration
 
-[Adriel Saa Romano](https://gitlab.com/adrielsr/jira-intellij-plugin)  3.2 out of 5
+[Adriel Saa Romano](https://gitlab.com/adrielsr/jira-intellij-plugin)  
 
-23 Ratings 52 470 Downloads
+23 Ratings  3.2 out of 5
+52 470 Downloads
+Aug 02, 2020
 
 [https://plugins.jetbrains.com/plugin/11169-jira-integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
 
 Adds a small tab to show JIRA issues, etc.
 
-![image alt text](image_19.png)
+![jira integrations](jira_integrations.png)
 
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
-# **Big Data Tools**
+# Big Data Tools
 
-[JetBrains s.r.o.](https://plugins.jetbrains.com/organization/JetBrains)  4.3 out of 5
+[JetBrains s.r.o.](https://plugins.jetbrains.com/organization/JetBrains) 
 
-11 Ratings  184 373 Downloads
+11 Ratings   4.3 out of 5
+184 373 Downloads
+Jul 27, 2020
 
 [https://plugins.jetbrains.com/plugin/12494-big-data-tools](https://plugins.jetbrains.com/plugin/12494-big-data-tools)
 
-# **Integrated tools for Zeppelin, Spark, and S3**
+**Integrated tools for Zeppelin, Spark, and S3**
 
 With this plugin, you can conveniently work with **Zeppelin** notebooks, **Spark** applications, and **S3** files right from **IntelliJ IDEA Ultimate**. 
 
-Support should happen with python zeppelin notebooks soon.![image alt text](image_20.png)
+Support should python zeppelin notebooks should be added soon.
+![image alt text](big_data_tools.png)
 
 [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
-# **Jenkins Control Plugin**
+# Jenkins Control Plugin
 
-[Programisci.eu David Boissier, Yuri Novitsky (support of PPP), Michael Suhr](https://github.com/MCMicS/jenkins-control-plugin/issues)   3.7 out of 5
+[Programisci.eu David Boissier, Yuri Novitsky (support of PPP), Michael Suhr](https://github.com/MCMicS/jenkins-control-plugin/issues)   
 
-19 Ratings188 314 Downloads
+19 Ratings 3.7 out of 5   
+188 314 Downloads  
+Jul 28, 2020
 
 [https://plugins.jetbrains.com/plugin/6110-jenkins-control-plugin](https://plugins.jetbrains.com/plugin/6110-jenkins-control-plugin)
 
-# **Integrates Jenkins in IntelliJ**
+**Integrates Jenkins in IntelliJ**
 
-**Features**
+**Features:**
 
 1. View Jobs
 
@@ -363,19 +356,22 @@ Seems pretty cool.
 
 [Material Theme UI - theme for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
+
 [Spellcheck](https://plugins.jetbrains.com/tag/179-spellcheck)
 
-# **Grazie**
+# Grazie
 
-[JetBrains s.r.o.](https://plugins.jetbrains.com/organization/JetBrains)  4.9 out of 5
+[JetBrains s.r.o.](https://plugins.jetbrains.com/organization/JetBrains) 
 
-29 Ratings186 545 Downloads
+29 Ratings   4.9 out of 5
+186 545 Downloads
+Jul 16, 2020
 
 [https://plugins.jetbrains.com/plugin/12175-grazie](https://plugins.jetbrains.com/plugin/12175-grazie)
 
 Provides intelligent spelling and grammar checks for text that you write in the IDE.
 
-1. Supports over 15 languages, including English, German, Russian, Chinese, and others.
+Supports over 15 languages, including English, German, Russian, Chinese, and others.
 
 A MUST
 
@@ -383,9 +379,11 @@ A MUST
 
 # **Sourcery**
 
-[Sourcery](https://sourcery.ai/)   4.5 out of 5
+[Sourcery](https://sourcery.ai/)   
 
-1 Rating6 205 Downloads
+1 Rating  4.5 out of 5
+6 205 Downloads
+Jul 31, 2020
 
 [https://plugins.jetbrains.com/plugin/12631-sourcery](https://plugins.jetbrains.com/plugin/12631-sourcery)
 
@@ -395,23 +393,29 @@ Sends code to the server to be analyzed. Might be cool. There’s a free tier an
 
 [PDF](https://plugins.jetbrains.com/tag/55-pdf)
 
-# **PDF Viewer**
+# PDF Viewer
 
 [FirstTimeInForever](https://github.com/FirstTimeInForever/intellij-pdf-viewer)
+
+4 Ratings  4.7 out of 5
+348 Downloads
+Jul 10, 2020
 
 [https://plugins.jetbrains.com/plugin/14494-pdf-viewer](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
 
 PDF viewer inside the IDE.  
 
-Very nice
 
 [Reporting](https://plugins.jetbrains.com/tag/39-reporting)
 
-# **WakaTime**
+# WakaTime
 
-[WakaTime](https://wakatime.com/)  4.5 out of 5
+[WakaTime](https://wakatime.com/)  
 
-9 Ratings  414 887 Downloads
+
+9 Ratings  4.5 out of 5
+414 887 Downloads
+Mar 06, 2020
 
 [WakaTime - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/7425-wakatime)
 
@@ -425,29 +429,31 @@ Pretty cool.
 
 # **Dictionary**
 
-[Lost-World](https://github.com/olivernybroe/intellij-Dictionary)  4.6 out of 5
+[Lost-World](https://github.com/olivernybroe/intellij-Dictionary)  
 
-2 Ratings1 120 Downloads
+2 Ratings  4.6 out of 5
+1 120 Downloads
+Mar 20, 2019
 
 [Dictionary - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/12089-dictionary)
 
 Plugin for having a shared dictionary for all members of your project.
 
 Great idea.
-
-Takes some restarting and moving the ‘project.dic’ file to work
+Takes some restarting and moving the ‘project.dic’ file to work.
 
 [Fun stuff](https://plugins.jetbrains.com/tag/16-fun-stuff)
 
 # **Power Mode II**
 
-[Alexander Thom](https://github.com/axaluss/power-mode-intellij-plugin)  4.7 out of 5
+[Alexander Thom](https://github.com/axaluss/power-mode-intellij-plugin)  
 
-24 Ratings  230 064 Downloads
+24 Ratings  4.7 out of 5
+230 064 Downloads
 
 [Power Mode II - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 
-![image alt text](image_21.gif)
+![image alt text](power_mode_ii.gif)
 
 Not my cup of tea but pretty popular
 

@@ -4,7 +4,7 @@ python:
   - "3.6"
 
 script:
-  - cp README.md docs/index.md
+  - cp README_awesome_python.md docs/index.md
   - mkdocs build
 
 deploy:

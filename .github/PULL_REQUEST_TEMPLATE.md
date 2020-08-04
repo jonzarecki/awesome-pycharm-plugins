@@ -1,8 +1,8 @@
-## What is this Python project?
+## What is this Pycharm plugin?
 
 Describe features.
 
-## What's the difference between this Python project and similar ones?
+## What's the difference between this Pycharm plugin and similar ones?
 
 Enumerate comparisons.
 
