@@ -25,6 +25,10 @@ To download
 [https://github.com/git-time-metric/gtm-jetbrains-plugin/issues/12](https://github.com/git-time-metric/gtm-jetbrains-plugin/issues/12)
 
 [Darkyen's Time Tracker - IntelliJ IDEs](https://plugins.jetbrains.com/plugin/9286-darkyen-s-time-tracker)
+[Command Line Launcher](https://plugins.jetbrains.com/plugin/14337-command-line-launcher)
+https://plugins.jetbrains.com/plugin/9558-commit-message-checker - ensures branch id is in commit message
+
+https://plugins.jetbrains.com/plugin/7499-gittoolbox - lot of git functionality losts of downloads
 
 # [Code tools](https://plugins.jetbrains.com/tag/15-code-tools)
 
