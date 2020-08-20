@@ -30,7 +30,7 @@ GOOD
 
 Helps configuring "save actions" like, optimize imports, reformat code and more on **every file save**.
 
-![image alt text](save_actions.png)
+![image alt text](media/save_actions.png)
 
 Very useful !
 
@@ -59,7 +59,7 @@ def str_to_int(value: str) -> Union[int, None]:
 def str_to_int(value: str) -> Optional[int]:
 ```
 
-![image alt text](python_annotation_suggestion.png)
+![image alt text](media/python_annotation_suggestion.png)
 
 Can be useful, at least not harmful
 
@@ -73,7 +73,7 @@ Can be useful, at least not harmful
 
 Implements code inspections to find different bad code smells (only works for linux/mac)
 
-![image alt text](code_cleaner.gif)
+![image alt text](media/code_cleaner.gif)
 
 [https://plugins.jetbrains.com/plugin/13306-code-cleaner-with-code-climate-cli](https://plugins.jetbrains.com/plugin/13306-code-cleaner-with-code-climate-cli)
 
@@ -90,7 +90,7 @@ Implements code inspections to find different bad code smells (only works for li
 
 Code inspection to find bug/vunerabilities.
  
- ![image alt text](sonarlint.png)
+ ![image alt text](media/sonarlint.png)
 
 I’d say this is worth a download
 
@@ -101,7 +101,7 @@ https://plugins.jetbrains.com/plugin/11084-pylint
 
 This plugin provides both real-time and on-demand scanning of Python files with Pylint from within the PyCharm IDE.
 
-![image alt text](pylint.png)
+![image alt text](media/pylint.png)
 
 [https://plugins.jetbrains.com/plugin/11084-pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
 
@@ -117,7 +117,7 @@ This plugin provides both real-time and on-demand scanning of Python files with 
 
 Emoji support inside the IDE
 
-![image alt text](emoji_support.gif)
+![image alt text](media/emoji_support.gif)
 
 Both from the same author, YAES seems to be newer but both are maintained.
 
@@ -126,7 +126,7 @@ However, colorful emojis are only in mac OS :( [link](https://stackoverflow.com/
 
 This is how it looks on Linux/Windows.
 
-![image alt text](emoji_linux.png)
+![image alt text](media/emoji_linux.png)
 
 
 
@@ -182,7 +182,7 @@ Just that
 
 Self explanatory, pretty cool.
 
-![image alt text](cpu_usage.png)
+![image alt text](media/cpu_usage.png)
 
 ## GPU Monitor
 
@@ -197,7 +197,7 @@ Self explanatory, pretty cool.
 
 Provides GPU stats from the IDE
 
-![image alt text](gpu_monitor.png)
+![image alt text](media/gpu_monitor.png)
 
 ## Extra Icons
 
@@ -210,7 +210,7 @@ Provides GPU stats from the IDE
 
 Add icons for files like Travis YML, Appveyor YML, etc.
 
-![image alt text](extra_icons.png)
+![image alt text](media/extra_icons.png)
 
 Would disable icons for common files like .gitignore and .md
 
@@ -222,7 +222,7 @@ Would disable icons for common files like .gitignore and .md
 - 3,045,674 Downloads
 - Jul 25, 2020
 
-![image alt text](rainbow_brackets.png)
+![image alt text](media/rainbow_brackets.png)
 
 Pretty useful, very popular
 
@@ -243,7 +243,7 @@ Pretty useful, very popular
 
 Connect to [blackd](https://black.readthedocs.io/en/stable/blackd.html) and format your Python code without creating a new **black** process!
 
-![image alt text](blackconnect.png)
+![image alt text](media/blackconnect.png)
 
 Pretty good. Can work in addition to Save Actions.
 
@@ -291,7 +291,7 @@ Currently, the plugin supports GitLab only (gitlab cloud and self-hosted).
 
 AWESOME !
 
-![image alt text](gitlab_merge_request_ce.png)
+![image alt text](media/gitlab_merge_request_ce.png)
 
 #### Other Gitlab plugins
 [https://plugins.jetbrains.com/plugin/11149-gitlab-quick-merge-request](https://plugins.jetbrains.com/plugin/11149-gitlab-quick-merge-request) - Just able to create a merge request
@@ -310,7 +310,7 @@ AWESOME !
 
 Adds a small tab to show JIRA issues, etc.
 
-![jira integrations](jira_integrations.png)
+![jira integrations](media/jira_integrations.png)
 
 ## Big Data Tools
 
@@ -326,7 +326,7 @@ Adds a small tab to show JIRA issues, etc.
 With this plugin, you can conveniently work with **Zeppelin** notebooks, **Spark** applications, and **S3** files right from **IntelliJ IDEA Ultimate**. 
 
 Support should python zeppelin notebooks should be added soon.
-![image alt text](big_data_tools.png)
+![image alt text](media/big_data_tools.png)
 
 ## Jenkins Control Plugin
 
@@ -379,7 +379,7 @@ Supports run configurations, syntax highlighting, rename, documentation lookup, 
 
 Lightweight plugin for editing CSV/TSV/PSV files with a flexible table editor, syntax validation, structure highlighting, customizable coloring, new intentions and helpful inspections.
 
-![image alt text](csv_plugin.png)
+![image alt text](media/csv_plugin.png)
 
 Seems pretty nice !
 
@@ -477,7 +477,7 @@ Pretty cool.
 
 [Power Mode II - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 
-![image alt text](power_mode_ii.gif)
+![image alt text](media/power_mode_ii.gif)
 
 Not my cup of tea but pretty popular
 
@@ -532,7 +532,7 @@ No guide on how to use it, can be useful for customizing.
 
 The Key Promoter X helps you to learn essential shortcuts while you are working.
 
-![image alt text](key_promoter_x.gif)
+![image alt text](media/key_promoter_x.gif)
 
 **AWESOME. A MUST**
 
@@ -562,7 +562,7 @@ A MUST
 
 The aim of this plugin is to provide completion for [conventional commits](https://conventionalcommits.org/), also named *semantic commits*, inside the VCS Commit dialog.
 
-![image alt text](conventional_commit.gif)
+![image alt text](media/conventional_commit.gif)
 
 Very flexible and fluent. However it doesn’t **enforce**.
 
@@ -585,7 +585,7 @@ I prefer it over Git Commit Template
 - 
 [https://plugins.jetbrains.com/plugin/12778-quick-file-preview/](https://plugins.jetbrains.com/plugin/12778-quick-file-preview/)
 
-![image alt text](quick_file_preview.png)
+![image alt text](media/quick_file_preview.png)
 
 Close to the new Git commit view, seems nice
 
@@ -602,9 +602,9 @@ orleviad
 Plugin that copy import in python interpreter style.
 Very useful for various scenarios such as copying imports to notebook.
 
-![image alt text](copy_as_import1.bmp)
+![image alt text](media/copy_as_import1.bmp)
 Paste anywhere:
-![image alt text](copy_as_import2.bmp)
+![image alt text](media/copy_as_import2.bmp)
 
 
 # [Viewer](https://plugins.jetbrains.com/tag/56-viewer)
@@ -620,7 +620,7 @@ Adrian Boguszewski
 
 Treats numpy array as an image and displays its content.
 
-![image alt text](opencv_image_viewer.gif)
+![image alt text](media/opencv_image_viewer.gif)
 
 If you use images in numpy arrays, why not ?
 
