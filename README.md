@@ -5,17 +5,50 @@ List of all plugins can be found in [here](https://plugins.jetbrains.com/pycharm
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome PyCharm Plugins](#awesome-pycharm-plugins)
-    - [Code tools](#Code-tools)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
+- Code Tools
+    - [Save Actions](#save-actions)
+    - [Python Annotations](#python-annotations)
+    - [Code Cleaner with Code Climate CL](#code-cleaner-with-code-climate-cl)
+    - [SonarLint](#sonarlint)
+    - [Pylint](#pylint)
+- Code Editing
+    - [Emoji Support Plugin](#emoji-support-plugin)
+- Miscellaneous
+    - [Archive browser](#archive-browser)
+    - [Dictionary](#dictionary)
+    - [PyCharm Help](#pycharm-help)
+- User Interface
+    - [CPU Usage Indicator](#cpu-usage-indicator)
+    - [GPU Monitor](#gpu-monitor)
+    - [Rainbow Brackets](#rainbow-brackets)
+    - [Extra Icons](#extra-icons)
+- Tools integration
+    - [BlackConnect](#blackconnect)
+    - [Data Version Control (DVC) Support](#data-version-control-dvc-support)
+    - [Gitlab Integrations](#gitlab-integrations)
+    - [Jira Integration](#jira-integration)
+    - [Big Data Tools](#big-data-tools)
+    - [Jenkins Control Plugin](#jenkins-control-plugin)
+- Languages
+    - [BashSupport](#bashsupport)
+    - [CSV Plugin](#csv-plugin)    
+- [Themes](#themes)   
+- Spellcheck
+    - [Grazie](#grazie)     
+- Refactoring
+    - [Sourcery](#sourcery)  
+- PDF
+    - [PDF Viewer](#pdf-viewer)
+           
 - [Resources](#resources)
     - [Books](#books)
-    - [Websites](#websites)
     - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
+    - [Websites](#websites)
 - [Contributing](#contributing)
 
----
+- - -
+
 # [Code tools](https://plugins.jetbrains.com/tag/15-code-tools)
 
 ## Save Actions
@@ -37,7 +70,6 @@ Very useful !
 
 [Inspection](https://plugins.jetbrains.com/tag/3-inspection)
 
-
 ## Python Annotations
 
 GOOD
@@ -48,13 +80,13 @@ GOOD
 
 Implement some quick type hint code inspections and quickfixes.
 ```python
-# before
+#### before
 
 def str_to_int(value: str) -> Union[int, None]:
 
     ...
 
-# after quickfix
+#### after quickfix
 
 def str_to_int(value: str) -> Optional[int]:
 ```
@@ -62,7 +94,6 @@ def str_to_int(value: str) -> Optional[int]:
 ![image alt text](media/python_annotation_suggestion.png)
 
 Can be useful, at least not harmful
-
 
 ## Code Cleaner with Code Climate CL
 [Nhat Phan](https://github.com/nhat-phan)  
@@ -76,7 +107,6 @@ Implements code inspections to find different bad code smells (only works for li
 ![image alt text](media/code_cleaner.gif)
 
 [https://plugins.jetbrains.com/plugin/13306-code-cleaner-with-code-climate-cli](https://plugins.jetbrains.com/plugin/13306-code-cleaner-with-code-climate-cli)
-
 
 ## SonarLint
 
@@ -127,8 +157,6 @@ However, colorful emojis are only in mac OS :( [link](https://stackoverflow.com/
 This is how it looks on Linux/Windows.
 
 ![image alt text](media/emoji_linux.png)
-
-
 
 # [Miscellaneous](https://plugins.jetbrains.com/tag/104-miscellaneous)
 
@@ -225,9 +253,6 @@ Would disable icons for common files like .gitignore and .md
 ![image alt text](media/rainbow_brackets.png)
 
 Pretty useful, very popular
-
-# [Unit testing](https://plugins.jetbrains.com/tag/86-unit-testing)
-
 
 # [Tools integration](https://plugins.jetbrains.com/tag/19-tools-integration)
 
@@ -354,8 +379,6 @@ Support should python zeppelin notebooks should be added soon.
 
 Seems pretty cool.
 
-
-
 # [Languages](https://plugins.jetbrains.com/tag/48-languages)
 
 ## BashSupport
@@ -383,8 +406,6 @@ Lightweight plugin for editing CSV/TSV/PSV files with a flexible table editor, s
 
 Seems pretty nice !
 
-
-
 # Themes
 
 [Darcula Darker Theme - theme for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/12692-darcula-darker-theme)
@@ -394,8 +415,6 @@ Seems pretty nice !
 [One Dark theme - theme for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
 
 [Material Theme UI - theme for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-
-
 
 # [Spellcheck](https://plugins.jetbrains.com/tag/179-spellcheck)
 
@@ -430,7 +449,6 @@ Jul 31, 2020
 Sourcery instantly refactors Python using AI. Write better code faster.
 
 Sends code to the server to be analyzed. Might be cool. There’s a free tier and higher.
-
 
 # [PDF](https://plugins.jetbrains.com/tag/55-pdf)
 
@@ -637,3 +655,5 @@ Works with version up to 2019.2
 [https://plugins.jetbrains.com/plugin/13877-remote-repository-checker](https://plugins.jetbrains.com/plugin/13877-remote-repository-checker)
 
 This plugin allows you to get notifications about remote Git repository updates.
+
+
