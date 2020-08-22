@@ -3,6 +3,11 @@
 A curated list of awesome PyCharm plugins.
 List of all plugins can be found in [here](https://plugins.jetbrains.com/pycharm).
 
+Each item holds a list of:
+- Rating
+- Number of downloads
+- Update time (not necessarily updated)
+
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - Tools integration
