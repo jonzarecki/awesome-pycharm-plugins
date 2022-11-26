@@ -3,6 +3,13 @@
 A curated list of awesome PyCharm plugins.
 List of all plugins can be found in [here](https://plugins.jetbrains.com/pycharm).
 
+new plugins:
+- https://plugins.jetbrains.com/plugin/18824-codeglance-pro
+- https://app.tabnine.com/profile/ides
+- https://plugins.jetbrains.com/plugin/7677-awesome-console
+- https://plugins.jetbrains.com/plugin/12861-pydantic
+- https://plugins.jetbrains.com/plugin/14722-excelreader
+
 Each item holds a list of:
 - Rating
 - Number of downloads
